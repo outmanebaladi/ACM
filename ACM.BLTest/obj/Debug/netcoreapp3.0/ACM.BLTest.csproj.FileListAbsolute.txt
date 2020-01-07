@@ -94,3 +94,5 @@ C:\Users\Outmane.BALADI\source\repos\ACM\ACM.BLTest\obj\Debug\netcoreapp3.0\ACM.
 C:\Users\Outmane.BALADI\source\repos\ACM\ACM.BLTest\obj\Debug\netcoreapp3.0\ACM.BLTest.csproj.CopyComplete
 C:\Users\Outmane.BALADI\source\repos\ACM\ACM.BLTest\obj\Debug\netcoreapp3.0\ACM.BLTest.dll
 C:\Users\Outmane.BALADI\source\repos\ACM\ACM.BLTest\obj\Debug\netcoreapp3.0\ACM.BLTest.pdb
+C:\Users\Outmane.BALADI\source\repos\ACM\ACM.BLTest\bin\Debug\netcoreapp3.0\Acme.Common.dll
+C:\Users\Outmane.BALADI\source\repos\ACM\ACM.BLTest\bin\Debug\netcoreapp3.0\Acme.Common.pdb

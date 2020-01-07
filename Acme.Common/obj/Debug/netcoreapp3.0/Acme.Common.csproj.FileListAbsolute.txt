@@ -1,0 +1,7 @@
+C:\Users\Outmane.BALADI\source\repos\ACM\Acme.Common\bin\Debug\netcoreapp3.0\Acme.Common.deps.json
+C:\Users\Outmane.BALADI\source\repos\ACM\Acme.Common\bin\Debug\netcoreapp3.0\Acme.Common.dll
+C:\Users\Outmane.BALADI\source\repos\ACM\Acme.Common\bin\Debug\netcoreapp3.0\Acme.Common.pdb
+C:\Users\Outmane.BALADI\source\repos\ACM\Acme.Common\obj\Debug\netcoreapp3.0\Acme.Common.AssemblyInfoInputs.cache
+C:\Users\Outmane.BALADI\source\repos\ACM\Acme.Common\obj\Debug\netcoreapp3.0\Acme.Common.AssemblyInfo.cs
+C:\Users\Outmane.BALADI\source\repos\ACM\Acme.Common\obj\Debug\netcoreapp3.0\Acme.Common.dll
+C:\Users\Outmane.BALADI\source\repos\ACM\Acme.Common\obj\Debug\netcoreapp3.0\Acme.Common.pdb

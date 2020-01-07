@@ -6,3 +6,6 @@ C:\Users\Outmane.BALADI\source\repos\ACM\ACM.BL\obj\Debug\netcoreapp3.0\ACM.BL.A
 C:\Users\Outmane.BALADI\source\repos\ACM\ACM.BL\obj\Debug\netcoreapp3.0\ACM.BL.AssemblyInfo.cs
 C:\Users\Outmane.BALADI\source\repos\ACM\ACM.BL\obj\Debug\netcoreapp3.0\ACM.BL.dll
 C:\Users\Outmane.BALADI\source\repos\ACM\ACM.BL\obj\Debug\netcoreapp3.0\ACM.BL.pdb
+C:\Users\Outmane.BALADI\source\repos\ACM\ACM.BL\bin\Debug\netcoreapp3.0\Acme.Common.dll
+C:\Users\Outmane.BALADI\source\repos\ACM\ACM.BL\bin\Debug\netcoreapp3.0\Acme.Common.pdb
+C:\Users\Outmane.BALADI\source\repos\ACM\ACM.BL\obj\Debug\netcoreapp3.0\ACM.BL.csproj.CopyComplete

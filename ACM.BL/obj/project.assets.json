@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.0": {}
+    ".NETCoreApp,Version=v3.0": {
+      "Acme.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "compile": {
+          "bin/placeholder/Acme.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Acme.Common.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Acme.Common/1.0.0": {
+      "type": "project",
+      "path": "../Acme.Common/Acme.Common.csproj",
+      "msbuildProject": "../Acme.Common/Acme.Common.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.0": []
+    ".NETCoreApp,Version=v3.0": [
+      "Acme.Common >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Outmane.BALADI\\.nuget\\packages\\": {}
@@ -32,7 +51,11 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Outmane.BALADI\\source\\repos\\ACM\\Acme.Common\\Acme.Common.csproj": {
+              "projectPath": "C:\\Users\\Outmane.BALADI\\source\\repos\\ACM\\Acme.Common\\Acme.Common.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

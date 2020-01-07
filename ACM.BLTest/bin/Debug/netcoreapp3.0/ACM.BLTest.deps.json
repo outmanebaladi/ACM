@@ -1344,8 +1344,16 @@
         }
       },
       "ACM.BL/1.0.0": {
+        "dependencies": {
+          "Acme.Common": "1.0.0"
+        },
         "runtime": {
           "ACM.BL.dll": {}
+        }
+      },
+      "Acme.Common/1.0.0": {
+        "runtime": {
+          "Acme.Common.dll": {}
         }
       }
     }
@@ -2050,6 +2058,11 @@
       "hashPath": "xunit.runner.visualstudio.2.4.0.nupkg.sha512"
     },
     "ACM.BL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Acme.Common/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

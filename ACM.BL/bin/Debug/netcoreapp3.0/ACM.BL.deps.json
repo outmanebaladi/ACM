@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v3.0": {
       "ACM.BL/1.0.0": {
+        "dependencies": {
+          "Acme.Common": "1.0.0"
+        },
         "runtime": {
           "ACM.BL.dll": {}
+        }
+      },
+      "Acme.Common/1.0.0": {
+        "runtime": {
+          "Acme.Common.dll": {}
         }
       }
     }
   },
   "libraries": {
     "ACM.BL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Acme.Common/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
