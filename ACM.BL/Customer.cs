@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace ACM.BL
 {
@@ -6,13 +7,15 @@ namespace ACM.BL
     {
         public Customer()
         {
-            
+            AddressList = new List<Address>();
         }
-        public Customer(int customerId)
+        public Customer(int customerId) : this()
         {
             CustomerId = customerId;
         }
+        public List<Address> AddressList { get; set; }
         public int CustomerId { get; private set; }
+        public int CustomerType { get; set; }
         public string EmailAddress { get; set; }
 
         public string FullName

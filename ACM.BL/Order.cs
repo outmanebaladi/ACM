@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ACM.BL
 {
-    class Order
+    public class Order
     {
         public Order()
         {
@@ -14,24 +14,11 @@ namespace ACM.BL
         {
             OrderId = orderId;
         }
-
+        public int CustomerId { get; set; }
         public DateTimeOffset? OrderDate { get; set; }
         public int OrderId { get; private set; }
-
-        public Order Retrieve(int orderId)
-        {
-            // Code that retrieves the defined order
-
-            return new Order();
-        }
-
-        public bool Save()
-        {
-            // Code that saves the defined order
-
-            return true;
-        }
-
+        public List<OrderItem> OrderItems { get; set; }
+        public int ShippingAddressId { get; set; }
         public bool Validate()
         {
             var isValid = true;
