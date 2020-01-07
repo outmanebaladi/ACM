@@ -5,3 +5,4 @@ C:\Users\Outmane.BALADI\source\repos\ACM\Acme.Common\obj\Debug\netcoreapp3.0\Acm
 C:\Users\Outmane.BALADI\source\repos\ACM\Acme.Common\obj\Debug\netcoreapp3.0\Acme.Common.AssemblyInfo.cs
 C:\Users\Outmane.BALADI\source\repos\ACM\Acme.Common\obj\Debug\netcoreapp3.0\Acme.Common.dll
 C:\Users\Outmane.BALADI\source\repos\ACM\Acme.Common\obj\Debug\netcoreapp3.0\Acme.Common.pdb
+C:\Users\Outmane.BALADI\source\repos\ACM\Acme.Common\obj\Debug\netcoreapp3.0\Acme.Common.csprojAssemblyReference.cache
